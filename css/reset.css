@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* test용 box */
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    background: tomato;
+}
+
+.sec {
+    padding: 200px;
+    /* overflow: hidden; */
+}

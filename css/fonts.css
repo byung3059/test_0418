@@ -1,0 +1,7 @@
+@import url('https://cdn.jsdelivr.net/npm/pretendard@latest/dist/web/variable/pretendardvariable-dynamic-subset.css');
+
+body {
+    font-family: 'Pretendard Variable', 'Pretendard', -apple-system, BlinkMacSystemFont,
+        system-ui, Roboto, 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR',
+        'Malgun Gothic', sans-serif;
+}
